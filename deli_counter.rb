@@ -9,3 +9,4 @@ else
     deli_line << "#{position+1}. #{each_person}"
   end
 end
+end
